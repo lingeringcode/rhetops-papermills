@@ -1,0 +1,82 @@
+# Specific
+TODO.md
+api.md
+peepdf
+collection/pdfs
+data/for-analysis
+data/network
+figures
+press
+networks
+interactives
+original-processing-hierarchical-for-animated-sankey.ipynb
+processing-google-serps-au.ipynb
+serps-processing-for-tree-and-network.ipynb
+processing-for-tree.ipynb
+data/process
+collection/google-scraper/google_scraper/__pycache__
+wiki-conversion
+
+# General
+*.code-workspace
+.ipynb_checkpoints
+*.pyc
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+*.ipynb
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.icloud
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.log
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+wiki-conversion/Paper Mill URL.html
+wiki-conversion/Paper Mill URL.docx
+wiki-conversion/Kairos article draft .odt
+lit/eaton-etal-2019-contract-cheating.pdf
+wiki-conversion/python-wiki-converter.py
+*.pyc

@@ -1,0 +1,267 @@
+university,control,city,state,carnegie
+Air Force Institute of Technology Graduate School of Engineering & Management,Public,Wright-Patterson AFB,OH,r2
+American University,Private (non-profit),Washington,DC,r2
+Arizona State University Downtown Phoenix campus,Public,Phoenix,AZ,r2
+Arizona State University SkySong campus,Public,Scottsdale,AZ,r2
+Arkansas State University,Public,Jonesboro,AR,r2
+Azusa Pacific University,Private (non-profit),Azusa,CA,r2
+Ball State University,Public,Muncie,IN,r2
+Baylor University,Private (non-profit),Waco,TX,r2
+Boise State University,Public,Boise,ID,r2
+Bowling Green State University,Public,Bowling Green,OH,r2
+Brigham Young University,Private (non-profit),Provo,UT,r2
+Catholic University of America,Private (non-profit),Washington,DC,r2
+Central Michigan University,Public,Mount Pleasant,MI,r2
+Chapman University,Private (non-profit),Orange,CA,r2
+Claremont Graduate University,Private (non-profit),Claremont,CA,r2
+Clark Atlanta University,Private (non-profit),Atlanta,GA,r2
+Clark University,Private (non-profit),Worcester,MA,r2
+Clarkson University,Private (non-profit),Potsdam,NY,r2
+Cleveland State University,Public,Cleveland,OH,r2
+College of William and Mary,Public,Williamsburg,VA,r2
+Colorado School of Mines,Public,Golden,CO,r2
+CUNY City College,Public,New York,NY,r2
+Delaware State University,Public,Dover,DE,r2
+DePaul University,Private (non-profit),Chicago,IL,r2
+Duquesne University,Private (non-profit),Pittsburgh,PA,r2
+East Carolina University,Public,Greenville,NC,r2
+East Tennessee State University,Public,Johnson City,TN,r2
+Eastern Michigan University,Public,Ypsilanti,MI,r2
+Florida Agricultural and Mechanical University,Public,Tallahassee,FL,r2
+Florida Atlantic University,Public,Boca Raton,FL,r2
+Florida Institute of Technology,Private (non-profit),Melbourne,FL,r2
+Fordham University,Private (non-profit),Bronx,NY,r2
+Gallaudet University,Private (non-profit),Washington,DC,r2
+Georgia Southern University,Public,Statesboro,GA,r2
+Hampton University,Private (non-profit),Hampton,VA,r2
+Howard University,Private (non-profit),Washington,DC,r2
+Idaho State University,Public,Pocatello,ID,r2
+Illinois Institute of Technology,Private (non-profit),Chicago,IL,r2
+Illinois State University,Public,Normal,IL,r2
+Indiana University – Purdue University Indianapolis,Public,Indianapolis,IN,r2
+Jackson State University,Public,Jackson,MS,r2
+Thomas Jefferson University,Private (non-profit),Philadelphia,PA,r2
+Kennesaw State University,Public,Kennesaw,GA,r2
+Kent State University at Kent,Public,Kent,OH,r2
+Lehigh University,Private (non-profit),Bethlehem,PA,r2
+Louisiana Tech University,Public,Ruston,LA,r2
+Loyola Marymount University,Private (non-profit),Los Angeles,CA,r2
+Loyola University Chicago,Private (non-profit),Chicago,IL,r2
+Marquette University,Private (non-profit),Milwaukee,WI,r2
+Marshall University,Public,Huntington,WV,r2
+Mercer University,Private (non-profit),Macon,GA,r2
+Miami University,Public,Oxford,OH,r2
+Michigan Technological University,Public,Houghton,MI,r2
+Missouri University of Science and Technology,Public,Rolla,MO,r2
+Montclair State University,Public,Montclair,NJ,r2
+Morgan State University,Public,Baltimore,MD,r2
+New Mexico State University,Public,Las Cruces,NM,r2
+North Carolina A & T State University,Public,Greensboro,NC,r2
+North Dakota State University,Public,Fargo,ND,r2
+Northern Arizona University,Public,Flagstaff,AZ,r2
+Northern Illinois University,Public,Dekalb,IL,r2
+Nova Southeastern University,Private (non-profit),Fort Lauderdale,FL,r2
+Oakland University,Public,Rochester,MI,r2
+Ohio University-Main Campus,Public,Athens,OH,r2
+Old Dominion University,Public,Norfolk,VA,r2
+Ponce Health Sciences University,Private (for-profit),Ponce,PR,r2
+Portland State University,Public,Portland,OR,r2
+Rochester Institute of Technology,Private (non-profit),Rochester,NY,r2
+Rockefeller University,Private (non-profit),New York,NY,r2
+Rowan University,Public,Glassboro,NJ,r2
+Rutgers University–Camden,Public,Camden,NJ,r2
+Rutgers University–Newark,Public,Newark,NJ,r2
+Saint Louis University,Private (non-profit),Saint Louis,MO,r2
+San Diego State University,Public,San Diego,CA,r2
+Seton Hall University,Private (non-profit),South Orange,NJ,r2
+South Dakota State University,Public,Brookings,SD,r2
+Southern Illinois University,Public,Carbondale,IL,r2
+Southern Methodist University,Private (non-profit),Dallas,TX,r2
+Stevens Institute of Technology,Private (non-profit),Hoboken,NJ,r2
+SUNY College of Environmental Science and Forestry,Public,Syracuse,NY,r2
+Teachers College at Columbia University,Private (non-profit),New York,NY,r2
+Tennessee State University,Public,Nashville,TN,r2
+Tennessee Technological University,Public,Cookeville,TN,r2
+Texas A&M University–Corpus Christi,Public,Corpus Christi,TX,r2
+Texas A&M University–Kingsville,Public,Kingsville,TX,r2
+Texas Christian University,Private (non-profit),Fort Worth,TX,r2
+Texas Southern University,Public,Houston,TX,r2
+Texas State University,Public,San Marcos,TX,r2
+The New School,Private (non-profit),New York,NY,r2
+University of Montana,Public,Missoula,MT,r2
+University of Texas at San Antonio,Public,San Antonio,TX,r2
+University of Texas Rio Grande Valley,Public,Rio Grande Valley,TX,r2
+University of Akron Main Campus,Public,Akron,OH,r2
+University of Alabama in Huntsville,Public,Huntsville,AL,r2
+University of Alaska Fairbanks,Public,Fairbanks,AK,r2
+University of Arkansas at Little Rock,Public,Little Rock,AR,r2
+"University of California, Merced",Public,Merced,CA,r2
+University of Colorado Colorado Springs,Public,Colorado Springs,CO,r2
+University of Dayton,Private (non-profit),Dayton,OH,r2
+University of Denver,Private (non-profit),Denver,CO,r2
+University of Idaho,Public,Moscow,ID,r2
+University of Louisiana at Lafayette,Public,Lafayette,LA,r2
+University of Maine,Public,Orono,ME,r2
+"University of Maryland, Eastern Shore",Public,Princess Anne,MD,r2
+"University of Maryland, Baltimore County",Public,Baltimore,MD,r2
+University of Massachusetts Boston,Public,Boston,MA,r2
+University of Massachusetts Dartmouth,Public,North Dartmouth,MA,r2
+University of Massachusetts Lowell,Public,Lowell,MA,r2
+University of Memphis,Public,Memphis,TN,r2
+University of Missouri–Kansas City,Public,Kansas City,MO,r2
+University of Missouri–St. Louis,Public,Saint Louis,MO,r2
+University of Nebraska at Omaha,Public,Omaha,NE,r2
+University of New England,Private (non-profit),Biddeford,ME,r2
+University of New Orleans,Public,New Orleans,LA,r2
+University of North Carolina at Charlotte,Public,Charlotte,NC,r2
+University of North Carolina at Greensboro,Public,Greensboro,NC,r2
+University of North Carolina Wilmington,Public,Wilmington,NC,r2
+University of North Dakota,Public,Grand Forks,ND,r2
+University of Puerto Rico at Río Piedras,Public,San Juan,PR,r2
+University of Rhode Island,Public,Kingston,RI,r2
+University of San Diego,Private (non-profit),San Diego,CA,r2
+University of South Alabama,Public,Mobile,AL,r2
+University of South Dakota,Public,Vermillion,SD,r2
+University of Toledo,Public,Toledo,OH,r2
+University of Tulsa,Private (non-profit),Tulsa,OK,r2
+University of Vermont,Public,Burlington,VT,r2
+University of Wyoming,Public,Laramie,WY,r2
+Utah State University,Public,Logan,UT,r2
+Villanova University,Private (non-profit),Villanova,PA,r2
+Wake Forest University,Private (non-profit),Winston-Salem,NC,r2
+Western Michigan University,Public,Kalamazoo,MI,r2
+Wichita State University,Public,Wichita,KS,r2
+Worcester Polytechnic Institute,Private (non-profit),Worcester,MA,r2
+Wright State University,Public,Dayton,OH,r2
+Yeshiva University,Private (non-profit),New York,NY,r2
+University of Alabama,Public,Tuscaloosa,AL,r1
+University of Alabama at Birmingham,Public,Birmingham,AL,r1
+University at Albany,Public,Albany,NY,r1
+University of Arizona,Public,Tucson,AZ,r1
+Arizona State University,Public,Tempe,AZ,r1
+University of Arkansas,Public,Fayetteville,AR,r1
+Auburn University,Public,Auburn,AL,r1
+Binghamton University,Public,Vestal,NY,r1
+Boston College,Private (non-profit),Chestnut Hill,MA,r1
+Boston University,Private (non-profit),Boston,MA,r1
+Brandeis University,Private (non-profit),Waltham,MA,r1
+Brown University,Private (non-profit),Providence,RI,r1
+University at Buffalo,Public,Buffalo,NY,r1
+"University of California, Berkeley",Public,Berkeley,CA,r1
+"University of California, Davis",Public,Davis,CA,r1
+"University of California, Irvine",Public,Irvine,CA,r1
+"University of California, Los Angeles",Public,Los Angeles,CA,r1
+"University of California, Riverside",Public,Riverside,CA,r1
+"University of California, San Diego",Public,San Diego,CA,r1
+"University of California, Santa Barbara",Public,Santa Barbara,CA,r1
+"University of California, Santa Cruz",Public,Santa Cruz,CA,r1
+California Institute of Technology,Private (non-profit),Pasadena,CA,r1
+Carnegie Mellon University,Private (non-profit),Pittsburgh,PA,r1
+Case Western Reserve University,Private (non-profit),Cleveland,OH,r1
+University of Central Florida,Public,Orlando,FL,r1
+University of Chicago,Private (non-profit),Chicago,IL,r1
+University of Cincinnati,Public,Cincinnati,OH,r1
+Clemson University,Public,Clemson,SC,r1
+University of Colorado Boulder,Public,Boulder,CO,r1
+University of Colorado Denver/Anschutz-Medical Campus,Public,Denver,CO,r1
+Colorado State University,Public,Fort Collins,CO,r1
+Columbia University,Private (non-profit),New York,NY,r1
+University of Connecticut,Public,Storrs,CT,r1
+Cornell University,Private (non-profit),Ithaca,NY,r1
+CUNY Graduate School and University Center,Public,New York,NY,r1
+Dartmouth College,Private (non-profit),Hanover,NH,r1
+University of Delaware,Public,Newark,DE,r1
+Drexel University,Private (non-profit),Philadelphia,PA,r1
+Duke University,Private (non-profit),Durham,NC,r1
+Emory University,Private (non-profit),Atlanta,GA,r1
+University of Florida,Public,Gainesville,FL,r1
+Florida International University,Public,Miami,FL,r1
+Florida State University,Public,Tallahassee,FL,r1
+George Mason University,Public,Fairfax,VA,r1
+George Washington University,Private (non-profit),Washington,DC,r1
+Georgetown University,Private (non-profit),Washington,DC,r1
+University of Georgia,Public,Athens,GA,r1
+Georgia Institute of Technology,Public,Atlanta,GA,r1
+Georgia State University,Public,Atlanta,GA,r1
+Harvard University,Private (non-profit),Cambridge,MA,r1
+University of Hawaii at Manoa,Public,Honolulu,HI,r1
+University of Houston,Public,Houston,TX,r1
+University of Illinois at Chicago,Public,Chicago,IL,r1
+University of Illinois at Urbana–Champaign,Public,Champaign,IL,r1
+Indiana University Bloomington,Public,Bloomington,IN,r1
+University of Iowa,Public,Iowa City,IA,r1
+Iowa State University,Public,Ames,IA,r1
+Johns Hopkins University,Private (non-profit),Baltimore,MD,r1
+University of Kansas,Public,Lawrence,KS,r1
+Kansas State University,Public,Manhattan,KS,r1
+University of Kentucky,Public,Lexington,KY,r1
+Louisiana State University and Agricultural & Mechanical College,Public,Baton Rouge,LA,r1
+University of Louisville,Public,Louisville,KY,r1
+"University of Maryland, College Park",Public,College Park,MD,r1
+University of Massachusetts Amherst,Public,Amherst,MA,r1
+Massachusetts Institute of Technology,Private (non-profit),Cambridge,MA,r1
+University of Miami,Private (non-profit),Coral Gables,FL,r1
+University of Michigan,Public,Ann Arbor,MI,r1
+Michigan State University,Public,East Lansing,MI,r1
+University of Minnesota,Public,Minneapolis,MN,r1
+University of Mississippi,Public,Oxford,MS,r1
+Mississippi State University,Public,Starkville,MS,r1
+University of Missouri,Public,Columbia,MO,r1
+Montana State University,Public,Bozeman,MT,r1
+University of Nebraska–Lincoln,Public,Lincoln,NE,r1
+"University of Nevada, Las Vegas",Public,Las Vegas,NV,r1
+"University of Nevada, Reno",Public,Reno,NV,r1
+University of New Hampshire,Public,Durham,NH,r1
+New Jersey Institute of Technology,Public,Newark,NJ,r1
+University of New Mexico,Public,Albuquerque,NM,r1
+New York University,Private (non-profit),New York,NY,r1
+North Carolina State University,Public,Raleigh,NC,r1
+University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,r1
+University of North Texas,Public,Denton,TX,r1
+Northeastern University,Private (non-profit),Boston,MA,r1
+Northwestern University,Private (non-profit),Evanston,IL,r1
+University of Notre Dame,Private (non-profit),Notre Dame,IN,r1
+Ohio State University[4],Public,Columbus,OH,r1
+University of Oklahoma,Public,Norman,OK,r1
+Oklahoma State University,Public,Stillwater,OK,r1
+University of Oregon,Public,Eugene,OR,r1
+Oregon State University,Public,Corvallis,OR,r1
+University of Pennsylvania,Private (non-profit),Philadelphia,PA,r1
+Pennsylvania State University,Public,University Park,PA,r1
+University of Pittsburgh,Public,Pittsburgh,PA,r1
+Princeton University,Private (non-profit),Princeton,NJ,r1
+Purdue University,Public,West Lafayette,IN,r1
+Rensselaer Polytechnic Institute,Private (non-profit),Troy,NY,r1
+Rice University,Private (non-profit),Houston,TX,r1
+University of Rochester,Private (non-profit),Rochester,NY,r1
+Rutgers University–New Brunswick,Public,New Brunswick,NJ,r1
+University of South Carolina,Public,Columbia,SC,r1
+University of South Florida,Public,Tampa,FL,r1
+University of Southern California,Private (non-profit),Los Angeles,CA,r1
+University of Southern Mississippi,Public,Hattiesburg,MS,r1
+Stanford University,Private (non-profit),Stanford,CA,r1
+Stony Brook University,Public,Stony Brook,NY,r1
+Syracuse University,Private (non-profit),Syracuse,NY,r1
+Temple University,Public,Philadelphia,PA,r1
+University of Tennessee,Public,Knoxville,TN,r1
+University of Texas at Arlington,Public,Arlington,TX,r1
+University of Texas at Austin,Public,Austin,TX,r1
+University of Texas at Dallas,Public,Richardson,TX,r1
+University of Texas at El Paso,Public,El Paso,TX,r1
+Texas A&M University,Public,College Station,TX,r1
+Texas Tech University,Public,Lubbock,TX,r1
+Tufts University,Private (non-profit),Medford,MA,r1
+Tulane University,Private (non-profit),New Orleans,LA,r1
+University of Utah,Public,Salt Lake City,UT,r1
+Vanderbilt University,Private (non-profit),Nashville,TN,r1
+University of Virginia,Public,Charlottesville,VA,r1
+Virginia Commonwealth University,Public,Richmond,VA,r1
+Virginia Polytechnic Institute and State University,Public,Blacksburg,VA,r1
+University of Washington,Public,Seattle,WA,r1
+Washington University in St. Louis,Private (non-profit),Saint Louis,MO,r1
+Washington State University,Public,Pullman,WA,r1
+Wayne State University,Public,Detroit,MI,r1
+University of Wisconsin–Madison,Public,Madison,WI,r1
+University of Wisconsin–Milwaukee,Public,Milwaukee,WI,r1
+West Virginia University,Public,Morgantown,WV,r1
+Yale University,Private (non-profit),New Haven,CT,r1
